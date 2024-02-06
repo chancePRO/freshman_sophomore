@@ -1,3 +1,3 @@
-Course title - Intro to Object Oriented Programming for Data Science
+course title - Intro to Object Oriented Programming for Data Science
 
-Skills - Java
+skills - Java
